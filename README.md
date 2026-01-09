@@ -46,7 +46,7 @@ gh-deployment-workflow/
 3. **Make changes** to `index.html`
 4. **Push to main branch**
 5. **Watch the workflow** run in the Actions tab
-6. **Visit your site** at `https://<username>.github.io/gh-deployment-workflow/`
+6. **Visit your site** at `https://emnextech.github.io/gh-deployment-workflow/`
 
 ## 📚 Learning Outcomes
 
