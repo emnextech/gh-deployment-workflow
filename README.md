@@ -17,7 +17,7 @@ This repository contains a simple static website that automatically deploys to G
 1. Developer makes changes to `index.html` and pushes to the `main` branch
 2. GitHub Actions detects the push and checks if `index.html` was modified
 3. If modified, the workflow automatically deploys the updated content to GitHub Pages
-4. The website is accessible at: `https://<username>.github.io/gh-deployment-workflow/`
+4. The website is accessible at: `https://emnextech.github.io/gh-deployment-workflow/`
 
 ## 🛠️ Technologies Used
 
