@@ -2,6 +2,8 @@
 
 This project demonstrates **Continuous Integration and Continuous Deployment (CI/CD)** using GitHub Actions to automatically deploy a static website to GitHub Pages.
 
+**Project Source**: [roadmap.sh - GitHub Actions Deployment Workflow](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
 ## 🎯 Project Overview
 
 This repository contains a simple static website that automatically deploys to GitHub Pages whenever changes are made to the `index.html` file. This showcases the power of automation in modern software development workflows.
